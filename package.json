@@ -1,5 +1,5 @@
 {
-  "name": "testing",
+  "name": "testing1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yashvardhanraizada/testing.git"
+    "url": "git+https://github.com/yashvardhanraizada/testing1.git"
   },
+  "keywords": [
+    "yvr"
+  ],
   "author": "yvr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yashvardhanraizada/testing/issues"
+    "url": "https://github.com/yashvardhanraizada/testing1/issues"
   },
-  "homepage": "https://github.com/yashvardhanraizada/testing#readme"
+  "homepage": "https://github.com/yashvardhanraizada/testing1#readme"
 }
